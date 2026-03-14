@@ -38,6 +38,19 @@ Full-stack engineer specializing in scalable, AI-powered applications. I like bu
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+## Projects
+
+- **[nextai-finance](https://github.com/Ttian18/nextai-finance)** — AI-powered finance app with spending analytics, receipt scanning, and restaurant recommendations
+- **[JobMaster](https://github.com/Ttian18/JobMaster)** — AI-powered job application toolkit — search, tailor resumes, apply, and track via email
+
+## Open Source Contributions
+
+- **[Hive](https://github.com/aden-hive/hive)** — Outcome-driven agent development framework
+  - Built Google Analytics 4 integration with full Data API v1 support
+  - Added Intercom tool integration with health checker
+  - Created Discord Community Digest and Invoicing Collections agent templates
+  - Improved TUI with multiline input and cross-platform clipboard support
+
 ## GitHub Stats
 
 <p align="center">
