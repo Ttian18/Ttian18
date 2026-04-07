@@ -54,8 +54,8 @@ Full-stack engineer specializing in scalable, AI-powered applications. I like bu
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ttian18&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ttian18&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Ttian18&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ttian18&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
